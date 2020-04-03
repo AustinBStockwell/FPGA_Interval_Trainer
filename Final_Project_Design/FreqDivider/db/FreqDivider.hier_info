@@ -1,0 +1,151 @@
+|FreqDivider
+Q3 <= mod_10_Lab6:inst6.Q3
+CLR => mod_10_Lab6:inst6.CLEAR
+CLR => mod_10_Lab6:inst7.CLEAR
+CLR => mod_10_Lab6:inst5.CLEAR
+CLR => mod_10_Lab6:inst3.CLEAR
+CLR => mod_10_Lab6:inst4.CLEAR
+CLR => mod_10_Lab6:inst2.CLEAR
+CLR => mod_10_Lab6:inst1.CLEAR
+CLR => mod5_lab6:inst.CLR
+CLK => mod5_lab6:inst.CLK
+Q2 <= mod_10_Lab6:inst6.Q2
+Q1 <= mod_10_Lab6:inst6.Q1
+Q0 <= mod_10_Lab6:inst6.Qo
+pin_name1 <= mod_10_Lab6:inst6.OUTPUTsIG
+
+
+|FreqDivider|mod_10_Lab6:inst6
+Qo <= inst300.DB_MAX_OUTPUT_PORT_TYPE
+CLEAR => inst300.ACLR
+CLEAR => inst200.ACLR
+CLEAR => inst70.ACLR
+CLEAR => inst190.ACLR
+CLK => inst300.CLK
+CLK => inst200.CLK
+CLK => inst70.CLK
+CLK => inst190.CLK
+CLK => inst2.CLK
+Q1 <= inst200.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst190.DB_MAX_OUTPUT_PORT_TYPE
+Q3 <= inst70.DB_MAX_OUTPUT_PORT_TYPE
+OUTPUTsIG <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FreqDivider|mod_10_Lab6:inst7
+Qo <= inst300.DB_MAX_OUTPUT_PORT_TYPE
+CLEAR => inst300.ACLR
+CLEAR => inst200.ACLR
+CLEAR => inst70.ACLR
+CLEAR => inst190.ACLR
+CLK => inst300.CLK
+CLK => inst200.CLK
+CLK => inst70.CLK
+CLK => inst190.CLK
+CLK => inst2.CLK
+Q1 <= inst200.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst190.DB_MAX_OUTPUT_PORT_TYPE
+Q3 <= inst70.DB_MAX_OUTPUT_PORT_TYPE
+OUTPUTsIG <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FreqDivider|mod_10_Lab6:inst5
+Qo <= inst300.DB_MAX_OUTPUT_PORT_TYPE
+CLEAR => inst300.ACLR
+CLEAR => inst200.ACLR
+CLEAR => inst70.ACLR
+CLEAR => inst190.ACLR
+CLK => inst300.CLK
+CLK => inst200.CLK
+CLK => inst70.CLK
+CLK => inst190.CLK
+CLK => inst2.CLK
+Q1 <= inst200.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst190.DB_MAX_OUTPUT_PORT_TYPE
+Q3 <= inst70.DB_MAX_OUTPUT_PORT_TYPE
+OUTPUTsIG <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FreqDivider|mod_10_Lab6:inst3
+Qo <= inst300.DB_MAX_OUTPUT_PORT_TYPE
+CLEAR => inst300.ACLR
+CLEAR => inst200.ACLR
+CLEAR => inst70.ACLR
+CLEAR => inst190.ACLR
+CLK => inst300.CLK
+CLK => inst200.CLK
+CLK => inst70.CLK
+CLK => inst190.CLK
+CLK => inst2.CLK
+Q1 <= inst200.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst190.DB_MAX_OUTPUT_PORT_TYPE
+Q3 <= inst70.DB_MAX_OUTPUT_PORT_TYPE
+OUTPUTsIG <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FreqDivider|mod_10_Lab6:inst4
+Qo <= inst300.DB_MAX_OUTPUT_PORT_TYPE
+CLEAR => inst300.ACLR
+CLEAR => inst200.ACLR
+CLEAR => inst70.ACLR
+CLEAR => inst190.ACLR
+CLK => inst300.CLK
+CLK => inst200.CLK
+CLK => inst70.CLK
+CLK => inst190.CLK
+CLK => inst2.CLK
+Q1 <= inst200.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst190.DB_MAX_OUTPUT_PORT_TYPE
+Q3 <= inst70.DB_MAX_OUTPUT_PORT_TYPE
+OUTPUTsIG <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FreqDivider|mod_10_Lab6:inst2
+Qo <= inst300.DB_MAX_OUTPUT_PORT_TYPE
+CLEAR => inst300.ACLR
+CLEAR => inst200.ACLR
+CLEAR => inst70.ACLR
+CLEAR => inst190.ACLR
+CLK => inst300.CLK
+CLK => inst200.CLK
+CLK => inst70.CLK
+CLK => inst190.CLK
+CLK => inst2.CLK
+Q1 <= inst200.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst190.DB_MAX_OUTPUT_PORT_TYPE
+Q3 <= inst70.DB_MAX_OUTPUT_PORT_TYPE
+OUTPUTsIG <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FreqDivider|mod_10_Lab6:inst1
+Qo <= inst300.DB_MAX_OUTPUT_PORT_TYPE
+CLEAR => inst300.ACLR
+CLEAR => inst200.ACLR
+CLEAR => inst70.ACLR
+CLEAR => inst190.ACLR
+CLK => inst300.CLK
+CLK => inst200.CLK
+CLK => inst70.CLK
+CLK => inst190.CLK
+CLK => inst2.CLK
+Q1 <= inst200.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst190.DB_MAX_OUTPUT_PORT_TYPE
+Q3 <= inst70.DB_MAX_OUTPUT_PORT_TYPE
+OUTPUTsIG <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FreqDivider|mod5_lab6:inst
+Q2 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+CLR => inst.ACLR
+CLR => inst2.ACLR
+CLR => inst1.ACLR
+CLR => inst8.ACLR
+CLK => inst.CLK
+CLK => inst2.CLK
+CLK => inst1.CLK
+CLK => inst8.CLK
+Q1 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+Q0 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+SignalOut <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+
+

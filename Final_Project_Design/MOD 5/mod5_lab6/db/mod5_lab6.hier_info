@@ -1,0 +1,15 @@
+|mod5_lab6
+Q2 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+CLR => inst.ACLR
+CLR => inst2.ACLR
+CLR => inst1.ACLR
+CLR => inst8.ACLR
+CLK => inst.CLK
+CLK => inst2.CLK
+CLK => inst1.CLK
+CLK => inst8.CLK
+Q1 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+Q0 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+SignalOut <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+
+

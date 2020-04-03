@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Dec 14 20:11:41 2014
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : FinalCircuit
+Top-level Entity Name : FinalCircuit
+Family : Cyclone II
+Total logic elements : 126
+    Total combinational functions : 126
+    Dedicated logic registers : 66
+Total registers : 66
+Total pins : 44
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

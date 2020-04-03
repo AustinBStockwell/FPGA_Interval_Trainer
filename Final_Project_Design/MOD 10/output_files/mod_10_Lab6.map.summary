@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Dec 11 18:42:46 2014
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : mod_10_Lab6
+Top-level Entity Name : mod_10_Lab6
+Family : Cyclone II
+Total logic elements : 5
+    Total combinational functions : 5
+    Dedicated logic registers : 5
+Total registers : 5
+Total pins : 7
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

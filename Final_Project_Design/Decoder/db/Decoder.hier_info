@@ -1,0 +1,17 @@
+|Decoder
+HOLD00 <= inst6.DB_MAX_OUTPUT_PORT_TYPE
+SclSwtch1 => inst.IN0
+SclSwtch1 => inst7.IN0
+SclSwtch1 => inst9.IN1
+SclSwtch2 => inst1.IN0
+SclSwtch2 => inst5.IN1
+SclSwtch2 => inst9.IN0
+CLK => inst6.IN1
+CLK => inst8.IN1
+CLK => inst11.IN1
+CLK => inst10.IN1
+CHROM01 <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+MAJ10 <= inst11.DB_MAX_OUTPUT_PORT_TYPE
+MIN11 <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,197 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'mod5_lab6:inst|inst8'
+Slack : -0.242
+TNS   : -0.578
+
+Type  : Slow Model Setup 'mod_10_Lab6:inst1|inst2'
+Slack : -0.211
+TNS   : -0.367
+
+Type  : Slow Model Setup 'mod_10_Lab6:inst5|inst2'
+Slack : -0.181
+TNS   : -0.335
+
+Type  : Slow Model Setup 'mod_10_Lab6:inst4|inst2'
+Slack : -0.165
+TNS   : -0.320
+
+Type  : Slow Model Setup 'mod_10_Lab6:inst7|inst2'
+Slack : -0.082
+TNS   : -0.256
+
+Type  : Slow Model Setup 'mod_10_Lab6:inst2|inst2'
+Slack : -0.072
+TNS   : -0.208
+
+Type  : Slow Model Setup 'CLK'
+Slack : -0.071
+TNS   : -0.071
+
+Type  : Slow Model Setup 'mod_10_Lab6:inst3|inst2'
+Slack : -0.066
+TNS   : -0.208
+
+Type  : Slow Model Hold 'CLK'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'mod5_lab6:inst|inst8'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'mod_10_Lab6:inst1|inst2'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'mod_10_Lab6:inst2|inst2'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'mod_10_Lab6:inst3|inst2'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'mod_10_Lab6:inst4|inst2'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'mod_10_Lab6:inst5|inst2'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'mod_10_Lab6:inst7|inst2'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLK'
+Slack : -1.380
+TNS   : -5.380
+
+Type  : Slow Model Minimum Pulse Width 'mod5_lab6:inst|inst8'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Slow Model Minimum Pulse Width 'mod_10_Lab6:inst1|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Slow Model Minimum Pulse Width 'mod_10_Lab6:inst2|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Slow Model Minimum Pulse Width 'mod_10_Lab6:inst3|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Slow Model Minimum Pulse Width 'mod_10_Lab6:inst4|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Slow Model Minimum Pulse Width 'mod_10_Lab6:inst5|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Slow Model Minimum Pulse Width 'mod_10_Lab6:inst7|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Fast Model Setup 'mod5_lab6:inst|inst8'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Fast Model Setup 'mod_10_Lab6:inst1|inst2'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Fast Model Setup 'mod_10_Lab6:inst5|inst2'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Fast Model Setup 'mod_10_Lab6:inst4|inst2'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Fast Model Setup 'mod_10_Lab6:inst7|inst2'
+Slack : 0.490
+TNS   : 0.000
+
+Type  : Fast Model Setup 'mod_10_Lab6:inst2|inst2'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Fast Model Setup 'CLK'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Fast Model Setup 'mod_10_Lab6:inst3|inst2'
+Slack : 0.503
+TNS   : 0.000
+
+Type  : Fast Model Hold 'CLK'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'mod5_lab6:inst|inst8'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'mod_10_Lab6:inst1|inst2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'mod_10_Lab6:inst2|inst2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'mod_10_Lab6:inst3|inst2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'mod_10_Lab6:inst4|inst2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'mod_10_Lab6:inst5|inst2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'mod_10_Lab6:inst7|inst2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLK'
+Slack : -1.380
+TNS   : -5.380
+
+Type  : Fast Model Minimum Pulse Width 'mod5_lab6:inst|inst8'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Fast Model Minimum Pulse Width 'mod_10_Lab6:inst1|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Fast Model Minimum Pulse Width 'mod_10_Lab6:inst2|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Fast Model Minimum Pulse Width 'mod_10_Lab6:inst3|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Fast Model Minimum Pulse Width 'mod_10_Lab6:inst4|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Fast Model Minimum Pulse Width 'mod_10_Lab6:inst5|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Fast Model Minimum Pulse Width 'mod_10_Lab6:inst7|inst2'
+Slack : -0.500
+TNS   : -5.000
+
+------------------------------------------------------------
